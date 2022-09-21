@@ -1,4 +1,6 @@
 /dns.values.yaml
+/dns.values-*YUNITE-ME.yaml
 /nginx.values.yaml
+/nginx.values*YUNITE-ME.yaml
 /values.yaml
-/values*-ME.yaml
+/values*YUNITE-ME.yaml
